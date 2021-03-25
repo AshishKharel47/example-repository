@@ -13,11 +13,14 @@ body {
       color: white;
       font-style: italic,bold;
       font-size: medium;
-      text-align: center;
+      text-align:center;
   }
  #About {
-     color: violet;
+     color: rgb(0, 255, 213);
  }
  .Myself {
      text-align: center;
+ }
+ h2 {
+     color: wheat;
  }
