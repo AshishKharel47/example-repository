@@ -11,7 +11,13 @@ body {
   }
   p {
       color: white;
+      font-style: italic,bold;
+      font-size: medium;
+      text-align: center;
   }
  #About {
      color: violet;
+ }
+ .Myself {
+     text-align: center;
  }
