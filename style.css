@@ -1,6 +1,10 @@
 body {
     background-image:url('https://miro.medium.com/max/4000/1*FwFjutKoa0Dq2WnEoh30_Q.jpeg');
  text-align: center;  
+ background-size: cover;
+  background-attachment: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100%;
 }
   #Hello {
       color: aliceblue;
