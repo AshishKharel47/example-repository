@@ -1,10 +1,8 @@
 
-var Name = prompt("Please enter your name", "<name goes here>");
+function addingEventListener() {
 
-if (Name!= null) {
-
-    document.getElementById("Here") =
-
-    "Hello " + Name + "! How are you today?";
-
-}
+    const input = document.getElementById('Here');
+    input.addEventListener('type', function() {
+      alert(`welcome ${type}`);
+    });
+};

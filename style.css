@@ -6,14 +6,12 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
-  #Hello {
-      color: aliceblue;
-  }
+ 
   #here {
       color: yellow;
   }
 
-  p {
+  h2>p{
       color: white;
       font-style: italic,bold;
       font-size: medium;
