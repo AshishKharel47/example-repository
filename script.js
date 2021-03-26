@@ -2,7 +2,7 @@
 function addingEventListener() {
 
     const input = document.getElementById('Here');
-    input.addEventListener('type', function() {
-      alert(`welcome ${type}`);
+    input.addEventListener('submit', function() {
+      alert(`welcome + ${value}`);
     });
 };
