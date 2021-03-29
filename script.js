@@ -1,8 +1,8 @@
 
 function addingEventListener() {
 
-    const input = document.getElementById('Here');
-    input.addEventListener('submit', function() {
-      alert(`welcome + ${value}`);
+    const input = document.getElementById('About');
+    input.addEventListener('click', function() {
+      alert(`welcome`);
     });
 };
