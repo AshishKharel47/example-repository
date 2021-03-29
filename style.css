@@ -32,6 +32,12 @@ body {
      color: beige;
 
  }
- li {
+ .list~li{
      color: beige;
+ }
+ a.link {
+     color: yellow;
+ }
+ a.visited {
+     color: tomato;
  }
