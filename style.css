@@ -3,8 +3,8 @@ body {
  text-align: center;  
  background-size: cover;
   background-attachment: fixed;
+  background-image: -moz-radial-gradient();
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
 }
  
   #here {
