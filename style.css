@@ -28,12 +28,10 @@ body {
      text-align: center;
  }
  
- .list{
+ li{
      color: beige;
-
- }
- .list~li{
-     color: beige;
+     text-align: center;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
  a.link {
      color: yellow;
